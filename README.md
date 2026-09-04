@@ -1,7 +1,11 @@
-# For inquiries, solve this jigsaw QR code puzzle
+<img src="qr-puzzle.png" width="280" align="left" alt="A QR code cut into 25 square pieces and shuffled, one piece missing">
 
-<p align="center">
-  <img src="qr-puzzle.png" width="280" alt="A QR code cut into 25 square pieces and shuffled, one piece missing">
-</p>
+## For inquiries, solve this jigsaw QR code puzzle
 
-5 × 5 pieces. One is missing, you don't need it. No rotating. Scan it when it's done.
+5 × 5 pieces. One is missing, you don't need it.
+
+No rotating.
+
+Scan it when it's done.
+
+<br clear="all">
