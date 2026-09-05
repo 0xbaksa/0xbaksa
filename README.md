@@ -2,8 +2,6 @@
 
 ### For inquiries, solve this jigsaw QR code puzzle
 
-5 × 5 pieces. One is missing, you don't need it.
-
 No rotating.
 
 Scan it when it's done.
